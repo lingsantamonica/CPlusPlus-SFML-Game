@@ -1,8 +1,8 @@
 
 // YunPeng Ling  November 2019
 //This is a 2D game developed with sfml library
-												//The player use   W S A D control the spaceship and 
-											   //click left mouse button to shoot the enemy spaceships
+				     //The player use   W S A D control the spaceship and 
+				    //click left mouse button to shoot the enemy spaceships
 //The png pictures used in this game are found online 
 //I don't own any of those pictures
 // Have fun !!!
